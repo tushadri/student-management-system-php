@@ -1,0 +1,29 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+#formsetting {
+  padding: 10px;
+  border-radius: 5px;
+}
+.icon i {
+  width: 100px;
+  height: 100px;
+  background: white;
+  font-size: 50px;
+  border-radius: 50%;
+  padding-top: 18px;
+  color: rgb(90, 8, 8);
+  position: relative;
+
+  left: 35%;
+  bottom: 5px;
+}
+
+.icon i:hover {
+  font-size: 60px;
+  color: white;
+  background: rgb(90, 8, 8);
+}
